@@ -9,4 +9,4 @@
 
 📈 my github stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FDarkCoder&show_icons=true&theme=gotham" alt="FDarkCoder" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ParsaFaghani&show_icons=true&theme=gotham" alt="ParsaFaghani" />
