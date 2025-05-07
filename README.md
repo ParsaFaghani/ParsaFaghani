@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ParsaFaghani" alt="ParsaFaghani" /> </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AripaStudio&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ParsaFaghani&theme=radical)
 
 **languages and tools:**
 
