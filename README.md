@@ -2,14 +2,21 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ParsaFaghani" alt="ParsaFaghani" /> </p>
 
-<p align="center">![GitHub Streak](https://streak-stats.demolab.com/?user=ParsaFaghani&theme=radical) </p>
+<p align="center">
+  <a href="https://github.com/ParsaFaghani">
+    <img src="https://streak-stats.demolab.com/?user=ParsaFaghani&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
-**languages and tools:**
-
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=python,cpp,django,godot,rust,postgresql,sqlite&perline=3)](https://skillicons.dev)</p>
+<h3 align="center">languages and tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,django,godot,rust,postgresql,sqlite&perline=3" />
+  </a>
+</p>
 
 📈 my github status:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParsaFaghani&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ParsaFaghani" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParsaFaghani&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ParsaFaghani" /></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ParsaFaghani&show_icons=true&theme=highcontrast" alt="ParsaFaghani" /> </p>
 
