@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">languages and tools</h3>
+<h3 align="center">🔥languages and tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,django,godot,rust,postgresql,sqlite&perline=3" />
@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="center">📈 my github status:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParsaFaghani&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ParsaFaghani" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParsaFaghani&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ParsaFaghani"/></p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ParsaFaghani&show_icons=true&theme=highcontrast" alt="ParsaFaghani" /> </p>
 
